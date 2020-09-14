@@ -1,0 +1,50 @@
+body{
+		
+		background:mintcream; 	
+
+ 
+}
+.box{
+	width:320px;
+	padding:40px;
+	position:absolute;
+	margin-top:7%;
+	margin-left:37%;
+	background:darkslategray;
+	text-align:center;
+	height:46%;
+	border-radius:20px;
+	border:2px solid #267373;
+
+}
+.box h1
+{
+		color:white;
+		text-transform:uppercase;
+		
+}
+.us{
+	
+	background-color:white;
+	display:block;
+	margin:20px auto;
+	text-align:center;
+	border:2px solid #267373;
+	padding :14px 10px;
+	width:230px;
+	color:black;
+	border-radius:24px;
+	
+	
+}
+
+#bt{
+	margin:25px;
+	width:90px;
+	height:40px;
+	border:2px solid #267373;
+	border-radius:24px;
+	
+}
+
+

@@ -1,0 +1,85 @@
+
+.row {
+    float: left;
+    border: 2px ;
+    width: 101.5%;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 50px;
+    background-color:darkturquoise;
+    
+   
+  }
+  .btn{
+    width:40%;
+  margin-right: auto;
+  margin-left: auto;
+  height:70%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color:	silver;
+    
+  
+  }
+  
+  h4{
+    text-align: center;
+    padding-bottom: 0%;
+    padding-top:20px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+  
+  }
+  
+   .card{
+    background-color:	mintcream;
+  } 
+  
+  h5{
+      text-align: center;
+      padding-bottom: 15px;
+      padding-top: 15px;
+  }
+  
+  #i1{
+    height:270px;
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+  
+  #i2{
+  height:270px;
+  width:100%;
+  margin-left: auto;
+    margin-right: auto;
+  }
+  #i3{
+  height:270px;
+  width:95%;
+  margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
+  #i4{
+      height:430px;
+      width:90%;
+      margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #i5{
+    height:430px;
+    width:75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #i6{
+    height:430px;
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }

@@ -1,0 +1,21 @@
+
+
+.navbar-nav{
+    padding-left:70%;
+}
+.navbar-brand
+{
+    padding-left: 3%;
+}
+.navbar-brand,.navbar-nav{
+    font-weight:bold;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+
+}
+.navbar{
+    background-color: darkturquoise;
+}
+.container{
+    height: 500px;
+}
